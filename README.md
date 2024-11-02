@@ -3,7 +3,7 @@
  <img width=200px height=200px src="https://techpilot.ai/wp-content/uploads/2023/06/Open-Source-AI.jpg" alt="Project logo"></a>
 </p>
 
-<h3 align="center">PMean Average Precision (mAP)</h3>
+<h3 align="center">Mean Average Precision (mAP)</h3>
 
 <div align="center">
 
